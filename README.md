@@ -3,3 +3,4 @@ Programm als Ergänzung zur Facharbeit "Newtonverfahren zur Nullstellenbestimmun
 
 ## Open-Source-Libaries:
 XChart - Simple Java Charts von Knowm Inc. -> https://knowm.org/open-source/xchart/
+Die Zugehörige Lizens findet sich hier: https://github.com/knowm/XChart/blob/develop/LICENSE
